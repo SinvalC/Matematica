@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mapas Mentais de Matemática</title>
+<script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=aZNEaXPhdt0goOnu48hPlXW1yvCjb5aAOlYPjYL3NFEnv2z-Kl40_Q3NMZ_KBKLugcaCA6dxKxcnw7mFQFAQBglM1npzB22xHO3Ied7BLknzTBB3LeaiLsQ6kSmq2fQp0IqsRKZDihCQYqoFOsRHuvtd0ZKxtplZQg2ISEQM3iSDBwEjXnPsIO25RK6-3Jam4KlmwltjkqL9eoaHcuSnk09ORT1vgXxt_WNnmuNS59JNbH1Z2HOuT5PC2di21E5AP6Kb_jkjCc3Aj0T0i4pvk8tJCv32BXRCBloUE98wWmncoYYgrpHjgWrrQkPLhcNjb3-KJ7GMarH0mWCGZxTfBCMSY_K-pF65kbi4ixI-IWs2RVOJybLSTg4DqUPu58aqKQEmGiJVWKs5aw7SM5zZyYaKJOZ9o78wNM6ZqjKEFCztoQ6tZrLUwtgEU_7OpUq8MvrD7ENs7iYOq7EQ_AdT4k8AAytNMec4fUB4KKyWqzZ38AVdyvwrWhd3IOEtZdCNpFzYJAI-AsfjfRo0JOP5-mGFxgw6AJnfJM40H-TO8ITK8hx8nXY7yWnPB2HPM-iVFqyJbleBPR6yokGaI-TpZWqB8u-VKoy0uCx7574hvKwdTGa5XbRflRq8xHBEDp_3NXDQDxLffvveK8mAem2N73YhcibooqgrGQxZYShTXXMQEvMu-Re-rRjvNwqmIrFTC3S8zejKz3phFbAwINJwoASIML49Jh5-aWIQueJM7W-xxjymzIHt4h4nGCmu5wMqWHivcbjiROIP8MfAF1g1EFWAMID8ulcfKLopb0JGGgh6YWonhYx9czKRue8oGayaEv0B2I3iiNIuULC3_2jqrWYIl_Eg-6y53Xi82Wh-vXcPxTjH-I_gHnwfEvUwf0sIp3LImsQw0VBQhu7BR89nJFjLimfXp6hyOUneKOjk2l8mFX1neWjhBObruGfx1TMGFgiJ_aVFzDAELfDhLhzraB0_0ZKdE4TD56HOOGAb-4oJtV6m9O-o70Oadedmw7d9jilvBOWou8TNWx2TAcV2hVT3Cf5UqSi7yLmJvGVVD4KUox8dT7HvNKlaGkZInx5oJnAQDO6OsWHMmH1JUkHD_I1JPmrBCW0zrelPD4l9w_mkpChLaULeY6UbY5EY2RWS65Czu5vTm-1h0KbqdSyG6USCwYjCQwLzRD9Z8st5anysS0pozLfa96P_pIlOPdG1DosZJm2IndgCFmIMqKKGxyqgOOjn04q3ZS2Kgq_rsDPDpV3f7Te0RjUYnP0l6XMV8G7IdEL4rN9__W5qVZ8VFKJaK8IpA6R7auIV0AwgyW7gRBil5SSJzK8NW4P98GTBpc-YQWkmuGarP3IOWeWwA0f_ud13EgBUPswCh-zyPumxKXDTPK2xtZBp1FzQ4qhdLn5i7He3asKfkzvLQq8LabLCCRY6ApJwiho-KCmG-G0q1QkptiNigs1F9U6c-Vz0YEZPvE5f5o3Qoot-nAVIUQbKkiqVUDZo2RfNywCQhpA4-UrjZyEK-k4GT3lxQK1GSb8sGXzUH7OeG9JmuaQvGk-AvNM7C9bTv0ZItMcHYF2-NzPbBFY72yVAphPKrldZ_DilVCGasjO9kuo3li6-8Vs28Lqpd6U2yruJXLgn5LkxIBhZxPwN89toUfdsE5pc4UA8ZK3uMOzmda7SokHHmmdSVCmBCdD0NdoarHAa_xy9oTL5fIuHBI7okDcMI0pnmAx_dWx3K2npz-cvCyM9W0kRyw0XLwAa012cBW1UA3VbZngaq_tyviqphGjUL4aNmVV-2v60vUYub9LBTJMGAhOhSugsdGdO8YQcK32nVINLyvNr2ysq8HWPX6dM-kwcZJGcAqOI-4uI3-nLAQ7jVcqHxpJslfDgECdsv0l3-m-cFHpeP0e_ca_dRzPBIPRI9BfRZWPPu0fwE7dJwR_IBT1UEzpyJ1XkKOajP7ELyNpBnmsYQyaISZa87Z8_Mn5ke9gDFAPfCh_XLekMghEl7X8Esnt61RmXTxuCTNQHy8vp9dOmVDRUqbUAXduRx-52ozQZNRzPYJklclBmezK3PO2Svl3rPLWcozk5poyl_3M_BapwGjLOuJGVtvDP4n1kI4sFPL7GnBeT01kdX_pWLiNo2TPSZK9SLjMZ7f0rkiAkHCMjKO7CjGetEWyAKpzepejHZGjL8NGk1-0kJt79Z0t8j0CvjPU0g2Orw545OgY" charset="UTF-8"></script><style>
+  body{font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;background:#f0f2f5;margin:0;padding:20px;display:flex;flex-direction:column;align-items:center;gap:40px;}
+  .card-container{background:#fff;padding:20px;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.12);display:flex;flex-direction:column;align-items:center;gap:15px;max-width:100%;}
+  .btn-download{background:#0d2346;color:#ffd600;border:2px solid #ffd600;padding:12px 24px;font-size:16px;font-weight:bold;font-family:inherit;border-radius:8px;cursor:pointer;transition:background-color .2s,transform .2s,opacity .2s;}
+  .btn-download:hover{background:#1a3c70;transform:scale(1.03);}
+  .btn-download:disabled{opacity:.6;cursor:progress;transform:none;}
+  svg{max-width:100%;height:auto;border:1px solid #ddd;background:#fff;}
+  .nota{font-size:13px;fill:#555;font-style:italic;}
+</style>
+</head>
+<body>
+  <!-- MAPA MENTAL 1: POTENCIAÇÃO E RADICIAÇÃO -->
+  <div class="card-container">
+    <button class="btn-download" onclick="downloadPNG('mapa1','Mapa_Mental_Potenciacao_Radiciacao.png',this)">
+      📥 Baixar Imagem PNG — Mapa 1: Potenciação e Radiciação
+    </button>
+
+    <svg id="mapa1" width="1200" height="960" viewBox="0 0 1200 960" xmlns="http://www.w3.org/2000/svg">
+      <rect width="1200" height="960" fill="#ffffff"/>
+      <rect x="12" y="12" width="1176" height="936" fill="none" stroke="#0d2346" stroke-width="16"/>
+
+      <!-- Título -->
+      <rect x="330" y="38" width="540" height="64" rx="8" fill="#0d2346" stroke="#ffd600" stroke-width="5"/>
+      <text x="600" y="80" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="bold" fill="#ffd600" text-anchor="middle">POTENCIAÇÃO E RADICIAÇÃO</text>
+
+      <!-- Conectores -->
+      <path d="M 600 102 L 600 135 M 310 135 L 890 135 M 310 135 L 310 165 M 890 135 L 890 165" stroke="#0d2346" stroke-width="4" fill="none"/>
+
+      <!-- Cartões de coluna -->
+      <rect x="140" y="165" width="340" height="46" rx="6" fill="#00acc1"/>
+      <text x="310" y="196" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle">
+        POTENCIAÇÃO (a<tspan dy="-8" font-size="15">n</tspan><tspan dy="8"> = b)</tspan>
+      </text>
+      <rect x="720" y="165" width="340" height="46" rx="6" fill="#d81b60"/>
+      <text x="890" y="196" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle">
+        RADICIAÇÃO (<tspan dy="-8" font-size="15">n</tspan><tspan dy="8">√a = b)</tspan>
+      </text>
+
+      <!-- ===== COLUNA ESQUERDA: POTENCIAÇÃO ===== -->
+      <rect x="50" y="235" width="520" height="280" rx="8" fill="#f8fdff" stroke="#00acc1" stroke-width="3"/>
+      <text x="70" y="265" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#0d2346">1. Definições e Regra de Sinais</text>
+
+      <text x="70" y="295" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">
+        • Expoente Zero:  a<tspan dy="-6" font-size="12">0</tspan><tspan dy="6"> = 1   (a ≠ 0)</tspan>
+      </text>
+      <text x="70" y="323" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">
+        • Expoente Negativo:  a<tspan dy="-6" font-size="12">−n</tspan><tspan dy="6"> = 1 / a</tspan><tspan dy="-6" font-size="12">n</tspan><tspan dy="6">   e   (a/b)</tspan><tspan dy="-6" font-size="12">−n</tspan><tspan dy="6"> = (b/a)</tspan><tspan dy="-6" font-size="12">n</tspan>
+      </text>
+      <text x="92" y="343" class="nota" font-family="Arial, Helvetica, sans-serif">Condições: a ≠ 0 e b ≠ 0 (não existe divisão por zero)</text>
+
+      <text x="70" y="373" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">• Base negativa e expoente INTEIRO n:</text>
+      <text x="92" y="399" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#c62828">
+        (−a)<tspan dy="-6" font-size="12">n</tspan><tspan dy="6"> é POSITIVO se n for PAR   |   NEGATIVO se n for ÍMPAR</tspan>
+      </text>
+
+      <text x="70" y="435" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#d81b60">
+        • Parênteses:  (−2)<tspan dy="-6" font-size="12">4</tspan><tspan dy="6"> = +16   ≠   −2</tspan><tspan dy="-6" font-size="12">4</tspan><tspan dy="6"> = −16</tspan>
+      </text>
+
+      <text x="70" y="471" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">• Expoente fracionário m/n (a &gt; 0):</text>
+      <text x="92" y="499" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#6a1b9a">
+        a<tspan dy="-6" font-size="12">m/n</tspan><tspan dy="6"> = </tspan><tspan dy="-6" font-size="12">n</tspan><tspan dy="6">√(a</tspan><tspan dy="-6" font-size="12">m</tspan><tspan dy="6">)</tspan>
+      </text>
+      <text x="200" y="499" class="nota" font-family="Arial, Helvetica, sans-serif">Base negativa exige denominador n ÍMPAR.</text>
+
+      <rect x="50" y="535" width="520" height="215" rx="8" fill="#f8fdff" stroke="#00acc1" stroke-width="3"/>
+      <text x="70" y="565" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#0d2346">2. Propriedades das Potências (mesma base)</text>
+
+      <text x="70" y="597" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">• Produto: conserva a base e SOMA os expoentes</text>
+      <text x="90" y="625" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#6a1b9a">
+        a<tspan dy="-6" font-size="12">m</tspan><tspan dy="6"> · a</tspan><tspan dy="-6" font-size="12">n</tspan><tspan dy="6"> = a</tspan><tspan dy="-6" font-size="12">m + n</tspan><tspan dy="6">     [Ex: 2</tspan><tspan dy="-6" font-size="12">3</tspan><tspan dy="6"> · 2</tspan><tspan dy="-6" font-size="12">4</tspan><tspan dy="6"> = 2</tspan><tspan dy="-6" font-size="12">7</tspan><tspan dy="6">]</tspan>
+      </text>
+
+      <text x="70" y="663" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">• Divisão: conserva a base e SUBTRAI os expoentes (a ≠ 0)</text>
+      <text x="90" y="691" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#6a1b9a">
+        a<tspan dy="-6" font-size="12">m</tspan><tspan dy="6"> / a</tspan><tspan dy="-6" font-size="12">n</tspan><tspan dy="6"> = a</tspan><tspan dy="-6" font-size="12">m − n</tspan><tspan dy="6">     [Ex: 5</tspan><tspan dy="-6" font-size="12">8</tspan><tspan dy="6"> / 5</tspan><tspan dy="-6" font-size="12">3</tspan><tspan dy="6"> = 5</tspan><tspan dy="-6" font-size="12">5</tspan><tspan dy="6">]</tspan>
+      </text>
+
+      <text x="70" y="729" class="nota" font-family="Arial, Helvetica, sans-serif">Não vale para a soma: (a + b)<tspan dy="-5" font-size="10">n</tspan><tspan dy="5"> ≠ a</tspan><tspan dy="-5" font-size="10">n</tspan><tspan dy="5"> + b</tspan><tspan dy="-5" font-size="10">n</tspan></text>
+
+      <!-- ===== COLUNA DIREITA: RADICIAÇÃO ===== -->
+      <rect x="630" y="235" width="520" height="245" rx="8" fill="#fff8fa" stroke="#d81b60" stroke-width="3"/>
+      <text x="650" y="265" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#0d2346">1. Propriedades dos Radicais</text>
+
+      <text x="650" y="295" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">
+        • Definição:  <tspan dy="-6" font-size="12">n</tspan><tspan dy="6">√a = b ⇔ b</tspan><tspan dy="-6" font-size="12">n</tspan><tspan dy="6"> = a (n ≥ 2 inteiro)</tspan>
+      </text>
+      <text x="672" y="318" class="nota" font-family="Arial, Helvetica, sans-serif">n PAR exige a ≥ 0 e dá b ≥ 0; n ÍMPAR aceita a &lt; 0 e b &lt; 0.</text>
+
+      <text x="650" y="347" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">
+        • Produto / Divisão:  <tspan dy="-6" font-size="12">n</tspan><tspan dy="6">√a·</tspan><tspan dy="-6" font-size="12">n</tspan><tspan dy="6">√b = </tspan><tspan dy="-6" font-size="12">n</tspan><tspan dy="6">√(a·b)   |   </tspan><tspan dy="-6" font-size="12">n</tspan><tspan dy="6">√a / </tspan><tspan dy="-6" font-size="12">n</tspan><tspan dy="6">√b = </tspan><tspan dy="-6" font-size="12">n</tspan><tspan dy="6">√(a/b)</tspan>
+      </text>
+      <text x="672" y="370" class="nota" font-family="Arial, Helvetica, sans-serif">Válido com a ≥ 0, b &gt; 0 (b ≠ 0 na divisão).</text>
+
+      <text x="650" y="399" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">
+        • Raiz de Raiz:  <tspan dy="-6" font-size="12">m</tspan><tspan dy="6">√(</tspan><tspan dy="-6" font-size="12">n</tspan><tspan dy="6">√a) = </tspan><tspan dy="-6" font-size="12">m·n</tspan><tspan dy="6">√a   [Ex: </tspan><tspan dy="-6" font-size="12">3</tspan><tspan dy="6">√(</tspan><tspan dy="-6" font-size="12">2</tspan><tspan dy="6">√64) = </tspan><tspan dy="-6" font-size="12">6</tspan><tspan dy="6">√64 = 2]</tspan>
+      </text>
+
+      <text x="650" y="429" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#00838f">
+        • Simplificação:  <tspan dy="-6" font-size="12">2</tspan><tspan dy="6">√50 = </tspan><tspan dy="-6" font-size="12">2</tspan><tspan dy="6">√(25 · 2) = 5</tspan><tspan dy="-6" font-size="12">2</tspan><tspan dy="6">√2</tspan>
+      </text>
+
+      <text x="650" y="463" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#0d2346">
+        • Conversão:  <tspan dy="-6" font-size="12">n</tspan><tspan dy="6">√(a</tspan><tspan dy="-6" font-size="12">m</tspan><tspan dy="6">) = a</tspan><tspan dy="-6" font-size="12">m/n</tspan><tspan dy="6">  (a &gt; 0)</tspan>
+      </text>
+
+      <rect x="630" y="495" width="520" height="215" rx="8" fill="#fff8fa" stroke="#d81b60" stroke-width="3"/>
+      <text x="650" y="525" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#0d2346">2. Racionalização de Denominadores</text>
+
+      <text x="650" y="553" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">• Caso 1 (raiz quadrada): multiplica por √a em cima e embaixo</text>
+      <text x="670" y="579" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#d81b60">6 / √3 = (6 · √3) / 3 = 2√3</text>
+
+      <text x="650" y="609" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">
+        • Caso 2 (índice n, radicando a<tspan dy="-6" font-size="12">m</tspan><tspan dy="6">): multiplica por </tspan><tspan dy="-6" font-size="12">n</tspan><tspan dy="6">√(a</tspan><tspan dy="-6" font-size="12">n−m</tspan><tspan dy="6">)</tspan>
+      </text>
+      <text x="670" y="635" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#d81b60">
+        2 / <tspan dy="-6" font-size="12">5</tspan><tspan dy="6">√(3</tspan><tspan dy="-6" font-size="12">2</tspan><tspan dy="6">)   →   multiplica por </tspan><tspan dy="-6" font-size="12">5</tspan><tspan dy="6">√(3</tspan><tspan dy="-6" font-size="12">3</tspan><tspan dy="6">)   [2 + 3 = 5]</tspan>
+      </text>
+
+      <text x="650" y="667" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">• Caso 3 (soma/subtração): multiplica pelo conjugado</text>
+      <text x="670" y="693" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#d81b60">4 / (√5 − 1) = 4·(√5 + 1) / (5 − 1) = √5 + 1</text>
+
+      <!-- ===== PONTE: EXPOENTE FRACIONÁRIO ===== -->
+      <rect x="200" y="780" width="800" height="135" rx="10" fill="#fff9c4" stroke="#0d2346" stroke-width="4"/>
+      <text x="600" y="815" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0d2346" text-anchor="middle">🔗 A PONTE: EXPOENTE FRACIONÁRIO</text>
+      <text x="600" y="855" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#6a1b9a" text-anchor="middle">
+        a<tspan dy="-8" font-size="15">m/n</tspan><tspan dy="8"> = </tspan><tspan dy="-8" font-size="15">n</tspan><tspan dy="8">√(a</tspan><tspan dy="-8" font-size="15">m</tspan><tspan dy="8">) = (</tspan><tspan dy="-8" font-size="15">n</tspan><tspan dy="8">√a)</tspan><tspan dy="-8" font-size="15">m</tspan><tspan dy="8">    |    Ex:  27</tspan><tspan dy="-8" font-size="15">2/3</tspan><tspan dy="8"> = (</tspan><tspan dy="-8" font-size="15">3</tspan><tspan dy="8">√27)</tspan><tspan dy="-8" font-size="15">2</tspan><tspan dy="8"> = 3</tspan><tspan dy="-8" font-size="15">2</tspan><tspan dy="8"> = 9</tspan>
+      </text>
+      <text x="600" y="890" class="nota" font-family="Arial, Helvetica, sans-serif" font-style="italic" text-anchor="middle">"Quem está no sol (numerador m) vai para a sombra; quem está na sombra (denominador n) vai para o sol."</text>
+
+    </svg>
+  </div>
+
+  <!-- MAPA MENTAL 2: EXPONENCIAL E LOGARITMO -->
+  <div class="card-container">
+    <button class="btn-download" onclick="downloadPNG('mapa2','Mapa_Mental_Exponencial_Logaritmo.png',this)">
+      📥 Baixar Imagem PNG — Mapa 2: Exponencial e Logaritmo
+    </button>
+
+    <svg id="mapa2" width="1200" height="905" viewBox="0 0 1200 905" xmlns="http://www.w3.org/2000/svg">
+      <rect width="1200" height="905" fill="#ffffff"/>
+      <rect x="12" y="12" width="1176" height="881" fill="none" stroke="#0d2346" stroke-width="16"/>
+
+      <rect x="310" y="34" width="580" height="64" rx="8" fill="#0d2346" stroke="#ffd600" stroke-width="5"/>
+      <text x="600" y="75" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="bold" fill="#ffd600" text-anchor="middle">EXPONENCIAL E LOGARITMO</text>
+
+      <rect x="350" y="112" width="500" height="40" rx="20" fill="#ede7f6" stroke="#6a1b9a" stroke-width="2"/>
+      <text x="600" y="139" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#4a148c" text-anchor="middle">
+        a<tspan dy="-7" font-size="15">x</tspan><tspan dy="7"> = b ⇔ log</tspan><tspan dy="5" font-size="14">a</tspan><tspan dy="-5">(b) = x   (a &gt; 0, a ≠ 1, b &gt; 0)</tspan>
+      </text>
+
+      <rect x="140" y="170" width="340" height="46" rx="6" fill="#1e88e5"/>
+      <text x="310" y="200" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle">
+        FUNÇÃO EXPONENCIAL: f(x) = a<tspan dy="-8" font-size="15">x</tspan>
+      </text>
+      <rect x="720" y="170" width="340" height="46" rx="6" fill="#8e24aa"/>
+      <text x="890" y="200" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle">
+        LOGARITMO: f(x) = log<tspan dy="5" font-size="15">a</tspan><tspan dy="-5">(x)</tspan>
+      </text>
+
+      <!-- ===== EXPONENCIAL ===== -->
+      <rect x="50" y="235" width="520" height="205" rx="8" fill="#f5faff" stroke="#1e88e5" stroke-width="3"/>
+      <text x="70" y="265" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#0d2346">1. Condições e Comportamento do Gráfico</text>
+      <text x="70" y="295" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">• Condição da base:  a &gt; 0  e  a ≠ 1</text>
+      <text x="70" y="322" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">• Domínio: ℝ (x ∈ ℝ)   |   Imagem: ℝ*₊ (y &gt; 0)</text>
+      <text x="70" y="349" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#1565c0">• Ponto notável: corta o eixo y sempre em (0, 1)</text>
+      <text x="70" y="378" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#2e7d32">
+        • CRESCENTE: quando a &gt; 1   (ex: y = 2<tspan dy="-6" font-size="12">x</tspan><tspan dy="6">)</tspan>
+      </text>
+      <text x="70" y="407" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#c62828">
+        • DECRESCENTE (decaimento): quando 0 &lt; a &lt; 1   (ex: y = (0,8)<tspan dy="-6" font-size="12">x</tspan><tspan dy="6">)</tspan>
+      </text>
+      <text x="70" y="432" class="nota" font-family="Arial, Helvetica, sans-serif">Injetora e sobrejetora em ℝ*₊ → admite inversa: o logaritmo.</text>
+
+      <rect x="50" y="460" width="520" height="215" rx="8" fill="#f5faff" stroke="#1e88e5" stroke-width="3"/>
+      <text x="70" y="490" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#0d2346">2. Resolução de Equações Exponenciais</text>
+
+      <text x="70" y="520" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">
+        • Método 1 (igualar as bases, a ≠ 1):  a<tspan dy="-6" font-size="12">x</tspan><tspan dy="6"> = a</tspan><tspan dy="-6" font-size="12">y</tspan><tspan dy="6"> ⇒ x = y</tspan>
+      </text>
+      <text x="90" y="548" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#1565c0">
+        Ex: 4<tspan dy="-6" font-size="12">2x−1</tspan><tspan dy="6"> = 8</tspan><tspan dy="-6" font-size="12">x+2</tspan><tspan dy="6"> ⇒ 2</tspan><tspan dy="-6" font-size="12">4x−2</tspan><tspan dy="6"> = 2</tspan><tspan dy="-6" font-size="12">3x+6</tspan><tspan dy="6"> ⇒ 4x−2 = 3x+6 ⇒ x = 8</tspan>
+      </text>
+
+      <text x="70" y="580" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">• Método 2 (fatoração / evidência):</text>
+      <text x="90" y="606" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#1565c0">
+        Ex: 2<tspan dy="-6" font-size="12">x+1</tspan><tspan dy="6"> + 2</tspan><tspan dy="-6" font-size="12">x</tspan><tspan dy="6"> = 24 ⇒ 2</tspan><tspan dy="-6" font-size="12">x</tspan><tspan dy="6">·(2 + 1) = 24 ⇒ 2</tspan><tspan dy="-6" font-size="12">x</tspan><tspan dy="6"> = 8 ⇒ x = 3</tspan>
+      </text>
+
+      <text x="70" y="638" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">
+        • Método 3 (substituição): chamar a<tspan dy="-6" font-size="12">x</tspan><tspan dy="6"> de "y" (cai em 2º grau)</tspan>
+      </text>
+      <text x="90" y="660" class="nota" font-family="Arial, Helvetica, sans-serif">
+        Depois de achar y, descarta as raízes y ≤ 0 (pois y = a<tspan dy="-5" font-size="10">x</tspan><tspan dy="5"> &gt; 0).</tspan>
+      </text>
+
+      <!-- ===== LOGARITMO ===== -->
+      <rect x="630" y="235" width="520" height="210" rx="8" fill="#fbf5ff" stroke="#8e24aa" stroke-width="3"/>
+      <text x="650" y="265" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#0d2346">1. Condições de Existência e Gráfico</text>
+      <text x="650" y="295" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">• Base: a &gt; 0 e a ≠ 1   |   Logaritmando: x &gt; 0</text>
+      <text x="650" y="322" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">• Domínio: ℝ*₊ (x &gt; 0)   |   Imagem: ℝ (y ∈ ℝ)</text>
+      <text x="650" y="349" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#6a1b9a">• Ponto notável: corta o eixo x sempre em (1, 0)</text>
+      <text x="650" y="376" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#222">• Crescente se a &gt; 1; decrescente se 0 &lt; a &lt; 1 (inversa do exponencial)</text>
+      <text x="650" y="403" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">• Consequências diretas:</text>
+      <text x="670" y="429" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#4a148c">
+        log<tspan dy="4" font-size="12">a</tspan><tspan dy="-4">(1) = 0   |   log</tspan><tspan dy="4" font-size="12">a</tspan><tspan dy="-4">(a) = 1   |   log</tspan><tspan dy="4" font-size="12">a</tspan><tspan dy="-4">(a</tspan><tspan dy="-6" font-size="12">m</tspan><tspan dy="6">) = m   |   a</tspan><tspan dy="-6" font-size="13">logₐ(b)</tspan><tspan dy="6"> = b  [ex: 5</tspan><tspan dy="-6" font-size="13">log₅7</tspan><tspan dy="6"> = 7]</tspan>
+      </text>
+
+      <rect x="630" y="465" width="520" height="210" rx="8" fill="#fbf5ff" stroke="#8e24aa" stroke-width="3"/>
+      <text x="650" y="495" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#0d2346">2. Propriedades Operatórias (base a, com x &gt; 0 e y &gt; 0)</text>
+
+      <text x="650" y="527" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">• Produto vira SOMA:</text>
+      <text x="830" y="527" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#6a1b9a">
+        log<tspan dy="4" font-size="12">a</tspan><tspan dy="-4">(x·y) = log</tspan><tspan dy="4" font-size="12">a</tspan><tspan dy="-4">(x) + log</tspan><tspan dy="4" font-size="12">a</tspan><tspan dy="-4">(y)</tspan>
+      </text>
+
+      <text x="650" y="561" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">• Divisão vira SUBTRAÇÃO:</text>
+      <text x="862" y="561" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#6a1b9a">
+        log<tspan dy="4" font-size="12">a</tspan><tspan dy="-4">(x/y) = log</tspan><tspan dy="4" font-size="12">a</tspan><tspan dy="-4">(x) − log</tspan><tspan dy="4" font-size="12">a</tspan><tspan dy="-4">(y)</tspan>
+      </text>
+
+      <text x="650" y="595" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">• Potência (regra do tombo):</text>
+      <text x="860" y="595" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#6a1b9a">
+        log<tspan dy="4" font-size="12">a</tspan><tspan dy="-4">(x</tspan><tspan dy="-6" font-size="12">n</tspan><tspan dy="6">) = n · log</tspan><tspan dy="4" font-size="12">a</tspan><tspan dy="-4">(x)</tspan>
+      </text>
+
+      <text x="650" y="629" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222">• Mudança de base (c &gt; 0, c ≠ 1):</text>
+      <text x="880" y="629" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" fill="#d81b60">
+        log<tspan dy="4" font-size="12">a</tspan><tspan dy="-4">(b) = log</tspan><tspan dy="4" font-size="12">c</tspan><tspan dy="-4">(b) / log</tspan><tspan dy="4" font-size="12">c</tspan><tspan dy="-4">(a)</tspan>
+      </text>
+
+      <text x="650" y="658" class="nota" font-family="Arial, Helvetica, sans-serif">Atenção: log(x + y) ≠ log(x) + log(y) — a soma só vale dentro do logaritmo do produto.</text>
+
+      <!-- ===== RODAPÉ: MODELOS DE APLICAÇÃO ===== -->
+      <rect x="50" y="705" width="1100" height="160" rx="10" fill="#fff9c4" stroke="#0d2346" stroke-width="4"/>
+      <text x="600" y="736" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#0d2346" text-anchor="middle">🚀 FÓRMULAS DE APLICAÇÃO PRÁTICA (MODELAGEM EXPONENCIAL)</text>
+
+      <text x="80" y="768" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#0d2346">• Juros compostos:</text>
+      <text x="80" y="796" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#d81b60">
+        M = C · (1 + i)<tspan dy="-7" font-size="13">t</tspan>
+      </text>
+      <text x="80" y="820" class="nota" font-family="Arial, Helvetica, sans-serif">i em decimal (5% → 0,05) e t na MESMA unidade de i.</text>
+      <text x="80" y="840" class="nota" font-family="Arial, Helvetica, sans-serif">M = montante, C = capital inicial.</text>
+
+      <text x="470" y="768" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#0d2346">• Crescimento bacteriano / populacional:</text>
+      <text x="470" y="796" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#1565c0">
+        N(t) = N<tspan dy="4" font-size="13">0</tspan><tspan dy="-4"> · 2</tspan><tspan dy="-7" font-size="13">t/k</tspan><tspan dy="7">   ou   P(t) = P</tspan><tspan dy="4" font-size="13">0</tspan><tspan dy="-4"> · e</tspan><tspan dy="-7" font-size="13">k·t</tspan>
+      </text>
+      <text x="470" y="820" class="nota" font-family="Arial, Helvetica, sans-serif">k = tempo de uma geração (dobra); t/k = nº de gerações.</text>
+      <text x="470" y="840" class="nota" font-family="Arial, Helvetica, sans-serif">Na 2ª forma, k &gt; 0 cresce e k &lt; 0 decai.</text>
+
+      <text x="890" y="768" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#0d2346">• Meia-vida (decaimento):</text>
+      <text x="890" y="796" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#6a1b9a">
+        N(t) = N<tspan dy="4" font-size="13">0</tspan><tspan dy="-4"> · (1/2)</tspan><tspan dy="-7" font-size="13">t/p</tspan>
+      </text>
+      <text x="890" y="820" class="nota" font-family="Arial, Helvetica, sans-serif">p = meia-vida (tempo para cair à metade).</text>
+      <text x="890" y="840" class="nota" font-family="Arial, Helvetica, sans-serif">t/p = nº de meias-vidas decorridas.</text>
+    </svg>
+  </div>
+
+  <script>
+    function svgParaDataURL(svg) {
+      var clone = svg.cloneNode(true);
+      clone.setAttribute('xmlns', 'http://www.w3.org/2000/svg');
+      clone.setAttribute('xmlns:xlink', 'http://www.w3.org/1999/xlink');
+      var vb = svg.viewBox.baseVal;
+      if (!clone.getAttribute('width')) clone.setAttribute('width', vb.width);
+      if (!clone.getAttribute('height')) clone.setAttribute('height', vb.height);
+      var str = new XMLSerializer().serializeToString(clone);
+      return 'data:image/svg+xml;base64,' + btoa(unescape(encodeURIComponent(str)));
+    }
+
+    function downloadPNG(svgId, filename, botao) {
+      var svg = document.getElementById(svgId);
+      if (!svg) { alert('Mapa nao encontrado na pagina.'); return; }
+      if (botao) { botao.dataset.rotulo = botao.innerHTML; botao.disabled = true; botao.innerHTML = 'Gerando imagem...'; }
+
+      var vb = svg.viewBox.baseVal;
+      var largura = vb.width || 1200;
+      var altura  = vb.height || 960;
+      var escala  = 2;
+
+      function restaurar() {
+        if (botao) { botao.disabled = false; botao.innerHTML = botao.dataset.rotulo; }
+      }
+      function falhar() {
+        alert('Nao foi possivel gerar o PNG neste navegador.\nAlternativa: use Imprimir > Salvar como PDF.');
+        restaurar();
+      }
+
+      var img = new Image();
+      img.onload = function () {
+        try {
+          var canvas = document.createElement('canvas');
+          canvas.width  = Math.round(largura * escala);
+          canvas.height = Math.round(altura * escala);
+          var ctx = canvas.getContext('2d');
+          ctx.fillStyle = '#ffffff';
+          ctx.fillRect(0, 0, canvas.width, canvas.height);
+          ctx.scale(escala, escala);
+          ctx.drawImage(img, 0, 0, largura, altura);
+          canvas.toBlob(function (blob) {
+            if (!blob) { falhar(); return; }
+            var url = URL.createObjectURL(blob);
+            var a = document.createElement('a');
+            a.href = url; a.download = filename;
+            document.body.appendChild(a); a.click(); document.body.removeChild(a);
+            setTimeout(function () { URL.revokeObjectURL(url); }, 3000);
+            restaurar();
+          }, 'image/png');
+        } catch (e) { console.error(e); falhar(); }
+      };
+      img.onerror = function () { console.error('Falha ao carregar o SVG.'); falhar(); };
+      img.src = svgParaDataURL(svg);
+    }
+  </script>
+</body>
+</html>
